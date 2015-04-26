@@ -5,6 +5,7 @@
   name="Rom Collection Browser"
   provider-name="malte">
   <requires>
+    <import addon="script.module.pydevd" version="3.4.1"/>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="service.rom.collection.browser" version="1.0.0"/>
   </requires>
